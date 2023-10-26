@@ -1,0 +1,21 @@
+/* Style your quiz here */
+.quiz-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.question {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.navigation {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.submit{
+    text-align: center;
+    margin-top: 20px;
+}
